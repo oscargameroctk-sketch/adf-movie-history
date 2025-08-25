@@ -1,0 +1,9 @@
+{
+	"name": "oscargameroctk",
+	"location": "brazilsouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b97ace9d-c25a-4e10-adcf-45b86524603c",
+		"tenantId": "54dd61d4-e911-4980-a6cf-79c3210a344d"
+	}
+}
